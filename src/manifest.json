@@ -1,0 +1,18 @@
+{
+    "name": "EPGS-extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "EPGStationの利便性を向上させます",
+    "permissions": [
+        "scripting",
+        "storage",
+        "contextMenus",
+        "notifications"
+    ],
+    "optional_host_permissions":[
+        "https://*/*",
+        "http://*/*"
+    ],
+    "options_page": "settings.html",
+    "homepage_url": "https://8jsv.com/"
+}
